@@ -14,6 +14,7 @@ Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e intera
 * **HTML:** A estrutura da página, como se fosse o esqueleto.
 * **CSS:** A estilização da página, deixando tudo bonitinho e organizado.
 * **JavaScript:** A mágica por trás da busca, fazendo com que a aplicação seja interativa e dinâmica.
+* A font selecionada para o resultado da pesquisa foi pensada baseada na font que é usada no Visual Studio Code.
 
 ## Como usar:
 
