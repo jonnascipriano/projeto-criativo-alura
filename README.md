@@ -17,11 +17,10 @@ Essa aplicação, fruto do Desafio Alura Gemini, é um buscador simples e intera
 
 ## Como usar:
 
-1. Acesse o link na descrição.
-   Ou
 1. **Clone o repositório:** Faça um clone deste repositório para o seu computador.
 2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador.
 3. **Comece a pesquisar:** Digite o que você quer aprender e veja a magia acontecer!
+4. Ou acesse o link na descrição.
 
 ## Contribuições:
 
